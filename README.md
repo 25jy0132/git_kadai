@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # JavaWebProject
-=======
-access:https://25jy0132.github.io/JavaWebProject/
->>>>>>> refs/heads/master
+## このプロジェクトに含まれる要素
+- rick roll
